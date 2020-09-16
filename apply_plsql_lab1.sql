@@ -1,7 +1,7 @@
 /*
 ||  Name:          apply_plsql_lab1.sql
-||  Date:          11 Nov 2016
-||  Purpose:       Complete 325 Chapter 3
+||  Date:          September 16 2020
+||  Purpose:       Complete 325 Week 1 Lab
 */
 
 @/home/student/Data/cit325/lib/cleanup_oracle.sql
