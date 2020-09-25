@@ -1,7 +1,8 @@
 /*
-||  Name:          apply_plsql_lab2-2.sql
-||  Date:          11 Nov 2016
-||  Purpose:       Complete 325 Chapter 3 lab.
+  Name:        apply_plsql_lab2-2.sql
+  Date:        25-09-2020
+  Purpose:     Complete 325 Chapter 3 lab.
+  Author:      Benard Oliech
 */
 
 -- Call seeding libraries.
@@ -15,7 +16,7 @@ SPOOL apply_plsql_lab2-2.txt
 SET SERVEROUTPUT ON SIZE UNLIMITED
 SET VERIFY OFF
 
--- Put your code here, like this "Hello Whom!" program.
+-- Put your code here, like this "Hello World!" program.
 DECLARE
     lv_name VARCHAR2(30);
 BEGIN
