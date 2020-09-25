@@ -1,7 +1,9 @@
 /*
-||  Name:          apply_plsql_lab2-1.sql
-||  Date:          11 Nov 2016
-||  Purpose:       Complete 325 Chapter 3 lab.
+ Name:          apply_plsql_lab2-1.sql
+ Date:          125/09/2020
+ Purpose:       Complete 325 Chapter 3 lab.
+ Author : Benard Oliech
+
 */
 
 -- Call seeding libraries.
